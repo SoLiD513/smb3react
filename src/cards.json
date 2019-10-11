@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Fire Flower",
+    "image": "./assets/images/Fire_Flower.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Super Mushroom",
+    "image": "./assets/images/Super_Mushroom.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Star",
+    "image": "./assets/images/Star_Item.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Tanooki Suit",
+    "image": "./assets/images/Tanooki_Suit.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Frog Suit",
+    "image": "./assets/images/Frog_Suit.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Hammer Suit",
+    "image": "./assets/images/Hammer_Suit.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Kuribo's Shoe",
+    "image": "./assets/images/Kuribo_Shoe.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Hammer",
+    "image": "./assets/images/SMB3_item_Hammer.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Music Box",
+    "image": "./assets/images/Music_Box.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Anchor",
+    "image": "./assets/images/Anchor.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Lakitu's Cloud",
+    "image": "./assets/images/Lakitu_Cloud.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Warp Whistle",
+    "image": "./assets/images/Warp_Whistle.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "P-Wing",
+    "image": "./assets/images/P_Wing.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "1-Up Mushroom",
+    "image": "./assets/images/1-Up_Mushroom.jpg",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Super Leaf",
+    "image": "./assets/images/Super_Leaf.png",
+    "clicked": false
+  }
+]
